@@ -36,8 +36,10 @@
 如果你在游玩过程中发现任何翻译错误、漏译或有更好的建议，欢迎加入交流群反馈：
  **QQ 交流群：[1090212382]** 
 ---
-##  鸣谢
-* **汉化作者**：milk_for_free
-* **使用字体**：[缝合像素字体 (Fusion Pixel Font)](https://github.com/TakWolf/fusion-pixel-font) 
+##
+* **汉化作者**：MILK-FOR-FREE | https://space.bilibili.com/275965943?spm_id_from=333.788.0.0
+* **使用字体**：[缝合像素字体 (Fusion Pixel Font)](https://github.com/TakWolf/fusion-pixel-font)
+* 感谢原作者与社区的支持。
+* 
 
 ---
