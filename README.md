@@ -22,7 +22,7 @@
 ---
 ## 已验证的兼容社区Mod
 社区Mod使用方法：将 .pck 放入mods文件夹中（与汉化补丁相同的mods文件夹）
-* **生物群系名展示**：https://github.com/svidaniya/DreamersTitles   **汉化补丁包含此mod的汉化**
+* **生物群系名展示**：https://github.com/svidaniya/DreamersTitles   **(汉化补丁包含此mod的汉化)**
 
 mod介绍：当玩家进入一个生物群系时，在屏幕上方显示其名字并视当地情况概率跳出短说明文本。
 * **全物品列表**：https://github.com/saucedheca/Lucid-Blocks-Creative-Menu-Mod
