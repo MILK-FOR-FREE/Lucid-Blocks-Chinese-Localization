@@ -37,9 +37,6 @@ mod介绍：游戏内按下 R 来查看自己先前的合成历史。
 * **敌人血条与伤害显示**：https://github.com/svidaniya/lb-simple-damage-indicators
 
 mod介绍：展示敌人的血条，并可看到自己造成伤害的数值。
-* **小蜜蜂手套模型替换**：https://gamebanana.com/mods/660454
-
-mod介绍：将游戏内蜜蜂手套的模型替换为来自游戏作品Oneshot中的角色Niko
 
 ---
 ## 补丁状态说明
