@@ -39,6 +39,7 @@
 ##
 * **汉化作者**：MILK-FOR-FREE | https://space.bilibili.com/275965943?spm_id_from=333.788.0.0
 * **使用字体**：[缝合像素字体 (Fusion Pixel Font)](https://github.com/TakWolf/fusion-pixel-font)
+* 感谢 @Kylerupinski 对补丁提出的改进与优化建议
 * 感谢原作者与社区的支持。
 * 
 
