@@ -23,17 +23,17 @@
 ## 已验证的兼容社区Mod
 社区Mod使用方法：将 .pck 放入mods文件夹中（与汉化补丁相同的mods文件夹）
 * **生物群系名展示**：https://github.com/svidaniya/DreamersTitles
-*  mod介绍：当玩家进入一个生物群系时，在屏幕上方显示其名字并视当地情况概率跳出短说明文本。**汉化补丁包含此mod的汉化**
+  mod介绍：当玩家进入一个生物群系时，在屏幕上方显示其名字并视当地情况概率跳出短说明文本。**汉化补丁包含此mod的汉化**
 * **全物品列表**：https://github.com/saucedheca/Lucid-Blocks-Creative-Menu-Mod
-*  mod介绍：游戏内按下 C 来打开全物品列表，并可指定生成的数量。
+  mod介绍：游戏内按下 C 来打开全物品列表，并可指定生成的数量。
 * **模拟合成**：https://github.com/saucedheca/lucid-blocks-recipe-browser-mod
-* mod介绍：游戏内按下 T 打开模拟合成面板，可以自由选择任何物品与数量。
+ mod介绍：游戏内按下 T 打开模拟合成面板，可以自由选择任何物品与数量。
 * **合成记录**：https://github.com/saucedheca/Lucid-Blocks-Save-Recipes-Mod
 mod介绍：游戏内按下 R 来查看自己先前的合成历史。
 * **敌人血条与伤害显示**：https://github.com/svidaniya/lb-simple-damage-indicators
-* mod介绍：展示敌人的血条，并可看到自己造成伤害的数值。
+ mod介绍：展示敌人的血条，并可看到自己造成伤害的数值。
 * **小蜜蜂手套模型替换**：https://gamebanana.com/mods/660454
-* mod介绍：将游戏内蜜蜂手套的模型替换为来自游戏作品Oneshot中的角色Niko
+ mod介绍：将游戏内蜜蜂手套的模型替换为来自游戏作品Oneshot中的角色Niko
 ---
 ## 补丁状态说明
 我可以确保游戏以及被99.99999%汉化，但由于游戏文本量较大且游戏环境复杂，补丁可能存在以下情况：
