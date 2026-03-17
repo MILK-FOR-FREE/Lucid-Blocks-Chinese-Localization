@@ -36,6 +36,8 @@
 ##  反馈与建议
 如果你在游玩过程中发现任何翻译错误、漏译或有更好的建议，欢迎加入交流群反馈：
  **QQ 交流群：[1090212382]** 
+ <img width="357" height="375" alt="Lucid Blocks汉化交流反馈群聊二维码" src="https://github.com/user-attachments/assets/88430b8b-bb9d-4b22-bd0e-b07f0cbb4470" />
+
 ---
 ##
 * **汉化作者**：MILK-FOR-FREE | https://space.bilibili.com/275965943?spm_id_from=333.788.0.0
