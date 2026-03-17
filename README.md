@@ -20,7 +20,7 @@
 4. **开始游戏**：
    直接通过 Steam 启动游戏，汉化将自动生效。
 ---
-## 已验证的兼容社区Mod
+## 已验证兼容的社区Mod
 社区Mod使用方法：将 `.pck` 文件放入mods文件夹中（与汉化补丁相同的mods文件夹）
 * **生物群系名展示**：https://github.com/svidaniya/DreamersTitles   **(汉化补丁包含此mod的汉化)**
 
