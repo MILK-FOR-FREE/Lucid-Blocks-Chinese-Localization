@@ -1,4 +1,4 @@
-# Lucid Blocks 简体中文汉化补丁 (Simplified Chinese Localization Mod)
+# Lucid Blocks汉化/简体中文本地化补丁 (Simplified Chinese Localization Mod)
 
 本补丁为 **Lucid Blocks** 的简体中文本地化文件，旨在为玩家提供完整的中文游戏体验。目前汉化与游戏均处于早期阶段，正在持续改进中。
 
