@@ -22,23 +22,23 @@
 4. **开始游戏**：
    直接通过 Steam 启动游戏，汉化将自动生效。
 ---
-## 已验证兼容的社区Mod （大部分mod作者已经弃坑，使用下列mod可能会导致错误）
+## 曾验证兼容的社区Mod （如今大部分mod作者已经弃坑，使用下列mod可能会导致错误，目前仅作为测试用途）
 **部分mod需要等待作者更新至最新版本，如果个别mod导致游戏无法进入，请暂时移除对应的mod**
 
 社区Mod使用方法：将 `.pck` 文件放入mods文件夹中（与汉化补丁相同的mods文件夹）
-* **生物群系名展示**：https://github.com/svidaniya/DreamersTitles   **(汉化补丁包含此mod的汉化)**
+* **生物群系名展示**：https://github.com/svidaniya/DreamersTitles   **(汉化补丁包含此mod的汉化)** **（此mod可能会与原游戏冲突）**
 
-mod介绍：当玩家进入一个生物群系时，在屏幕上方显示其名字并视当地情况概率跳出短说明文本。**（此mod可能会与原游戏冲突）**
-* **全物品列表**：https://github.com/saucedheca/Lucid-Blocks-Creative-Menu-Mod
+mod介绍：当玩家进入一个生物群系时，在屏幕上方显示其名字并视当地情况概率跳出短说明文本。
+* **全物品列表**：https://github.com/saucedheca/Lucid-Blocks-Creative-Menu-Mod **（此mod可能会与原游戏冲突）**
 
-mod介绍：游戏内按下 C 来打开全物品列表，并可指定生成的数量。 **（此mod可能会与原游戏冲突）**
-* **模拟合成**：https://github.com/saucedheca/lucid-blocks-recipe-browser-mod
+mod介绍：游戏内按下 C 来打开全物品列表，并可指定生成的数量。 
+* **模拟合成**：https://github.com/saucedheca/lucid-blocks-recipe-browser-mod **（此mod可能会与原游戏冲突）**
 
-mod介绍：游戏内按下 T 打开模拟合成面板，可以自由选择任何物品与数量。 **（此mod可能会与原游戏冲突）**
-* **合成记录**：https://github.com/saucedheca/Lucid-Blocks-Save-Recipes-Mod
+mod介绍：游戏内按下 T 打开模拟合成面板，可以自由选择任何物品与数量。 
+* **合成记录**：https://github.com/saucedheca/Lucid-Blocks-Save-Recipes-Mod **（此mod可能会与原游戏冲突）**
 
-mod介绍：游戏内按下 R 来查看自己先前的合成历史。 **（此mod可能会与原游戏冲突）**
-* **敌人血条与伤害显示**：https://github.com/svidaniya/lb-simple-damage-indicators
+mod介绍：游戏内按下 R 来查看自己先前的合成历史。 
+* **敌人血条与伤害显示**：https://github.com/svidaniya/lb-simple-damage-indicators **（此mod可能会与原游戏冲突）**
 
 mod介绍：展示敌人的血条，并可看到自己造成伤害的数值。
 
