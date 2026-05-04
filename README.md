@@ -63,7 +63,7 @@ mod介绍：展示敌人的血条，并可看到自己造成伤害的数值。
 
 ---
 ##
-* **汉化作者**：MILK-FOR-FREE | https://space.bilibili.com/275965943?spm_id_from=333.788.0.
+* **汉化作者**：我 | https://space.bilibili.com/275965943?spm_id_from=333.788.0.
 * **繁中作者**：竹节虫 | https://space.bilibili.com/1732248202?spm_id_from=333.1007.0.0
 * **使用字体**：[缝合像素字体 (Fusion Pixel Font)](https://github.com/TakWolf/fusion-pixel-font)
 * 感谢 [@Kylerupinski](https://github.com/Kylerupinski) 对补丁后续提出的优秀代码改进建议
