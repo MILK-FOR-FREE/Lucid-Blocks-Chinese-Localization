@@ -28,15 +28,16 @@
 **作者在这个版本后修改了目录的文件顺序，只需要手动把mods文件夹移动即可**
 1. **继续定位目录**：
    在 Steam 库中右键点击 `Lucid Blocks` -> `管理` -> `浏览本地文件`。
-2. 找到 `lucid-blocks` 文件夹
+2. 找到其中的 `lucid-blocks` 文件夹
    进入此文件夹，找到原先的 `mods` 文件夹
    
-   将 `mods` 文件夹手动移动至 `lucid-blocks` 文件夹
+   将 `mods` 文件夹手动移动至上一层 `lucid-blocks` 文件夹
    * **正确路径结构应如下所示：**
    ```text
-   lucid-blocks/                <-- 游戏根目录
+   lucid-blocks/                <-- 游戏根目录（新文件夹）
    └── mods/                    <-- mods文件夹
        └── .pck                 <-- 汉化文件
+   lucid-blocks                 <-- 旧文件夹
 4. **开始游戏**：
    删除旧的 `lucid-blocks` 文件夹，直接通过 Steam 启动游戏，汉化将自动生效。
 ---
