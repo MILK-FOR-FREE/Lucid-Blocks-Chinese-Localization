@@ -8,7 +8,7 @@
 
 ##  常规安装方法
 1. **下载补丁**：
-   前往右侧的 [Releases] 页面，下载对应版本的压缩包.
+   前往右侧的 [Releases](https://github.com/MILK-FOR-FREE/Lucid-Blocks-Chinese-Localization/releases)  页面，下载对应版本的压缩包.
    
    若是简体中文，下载对应版本的 `zhswdkls` ，若是繁體中文，下载对应版本的  `zjc`。
    
